@@ -962,7 +962,7 @@ border-color: var(--main-color);
     width: fit-content;
     margin: 31px auto;
 }
-.foot a{
+.foot a:hover{
     color: white;
     background-color: var(--main-color); 
 }
@@ -1187,7 +1187,7 @@ border-color: var(--main-color);
 }
 
 .footer .container .social i:hover{
-    transform: rotate (1turn);
+    transform: rotate(1turn);
     transition: .3s ease-in;
 }
 .footer .container .copyright{
