@@ -214,7 +214,7 @@ header nav .toggle:hover + ul li a{
 .landing{
     height: 100vh;
     background-color: #333;
-    background-image: url(/image/tree\ tend.webp);
+    background-image: url(../image/tree\ tend.webp);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -364,7 +364,7 @@ border-color: var(--main-color);
     padding-bottom: var(--section-padding);
     height: 600px;
     background-color: #333;
-    background-image: url(/image/three\ tree\ tend.jfif);
+    background-image: url(../image/three\ tree\ tend.jfif);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -639,7 +639,7 @@ border-color: var(--main-color);
     text-align: center;
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/image/dark\ wood.jpg);
+    background-image: url(../image/dark\ wood.jpg);
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -844,7 +844,7 @@ border-color: var(--main-color);
 .quote{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image:url(/image/me2.jpeg) ;
+    background-image:url(../image/me2.jpeg) ;
     background-position: center;
     background-size: cover;
     position: relative;
@@ -990,7 +990,7 @@ border-color: var(--main-color);
 .subscrib{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/image/couple.webp);
+    background-image: url(../image/couple.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 68%;
@@ -1145,7 +1145,7 @@ border-color: var(--main-color);
 .footer{
     padding-top:calc(var(--section-padding) /4);
     padding-bottom:calc(var(--section-padding) /2);
-    background-image: url(/image/wood-wooden-brown-light-wallpaper.jpg);
+    background-image: url(../image/wood-wooden-brown-light-wallpaper.jpg);
     background-size: cover;
     position: relative;
     color: white;
