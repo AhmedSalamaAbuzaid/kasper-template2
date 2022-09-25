@@ -962,6 +962,10 @@ border-color: var(--main-color);
     width: fit-content;
     margin: 31px auto;
 }
+.foot a{
+    color: white;
+    background-color: var(--main-color); 
+}
 
 .pricing .container .contact-us{
     margin:60px auto 20px;
@@ -1179,10 +1183,12 @@ border-color: var(--main-color);
 .footer .container .social i{
     padding: 15px;
     margin-top: 10px;
+    cursor: pointer;
 }
+
 .footer .container .social i:hover{
-    transition:.5s;
-    transform:rotate (1turn);
+    transform: rotate (1turn);
+    transition: .3s ease-in;
 }
 .footer .container .copyright{
     margin-top: 20px;
