@@ -57,11 +57,11 @@ HTML documents can become complicated, especially for webpages with a lot of con
     
 1. Create it Readable
 
-The readability of your CSS is necessary, although the general public overlooks its importance. Nice readability of your CSS makes it a lot easier to keep up with the future, as you will be able to notice components faster.
+  The readability of your CSS is necessary, although the general public overlooks its importance. Nice readability of your CSS makes it a lot easier to keep up   with the future, as you will be able to notice components faster.
 
-Note: Usually while writing CSS, most developers adopt one of the following approaches.
+  Note: Usually while writing CSS, most developers adopt one of the following approaches.
 
-Approach 1: All on one line as below:
+  Approach 1: All on one line as below:
 
 ```CSS
 .example{background:red;padding:2em;border:1px solid black;}
@@ -76,7 +76,7 @@ border: 1px solid black;
 }
 ```
 
-Both practices square measure is acceptable, although you may usually notice that way two despises way one! Simply keep in mind – opt for the tactic that appears best TO YOU. This is all that matters.
+  Both practices square measure is acceptable, although you may usually notice that way two despises way one! Simply keep in mind – opt for the tactic that       appears best TO YOU. This is all that matters.
 
 2. Use Reset and Normalize CSS
 
