@@ -63,22 +63,22 @@ HTML documents can become complicated, especially for webpages with a lot of con
 
   Approach 1: All on one line as below:
 
-```CSS
-.example{background:red;padding:2em;border:1px solid black;}
-```
-Approach 2: Each style gets its own line as below:
+  ```CSS
+  .example{background:red;padding:2em;border:1px solid black;}
+  ```
+  Approach 2: Each style gets its own line as below:
 
-```CSS
-.example {
-background: red;
-padding: 2em;
-border: 1px solid black;
-}
-```
+  ```CSS
+  .example {
+  background: red;
+  padding: 2em;
+  border: 1px solid black;
+  }
+  ```
 
   Both practices square measure is acceptable, although you may usually notice that way two despises way one! Simply keep in mind – opt for the tactic that       appears best TO YOU. This is all that matters.
 
-2. Use Reset and Normalize CSS
+  2. Use Reset and Normalize CSS
 
 Most CSS frameworks have an option to reset them. If you are not aiming to use the existing framework reset CSS  one, then a better option will be to set them to reset or normalize. Resets or Normalize CSS eliminate browser inconsistencies like heights, font sizes, margins, headings, etc. The reset permits your layout to look consistent all told browsers.
 
