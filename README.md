@@ -80,7 +80,7 @@ HTML documents can become complicated, especially for webpages with a lot of con
 
   2. Use Reset and Normalize CSS
 
-Most CSS frameworks have an option to reset them. If you are not aiming to use the existing framework reset CSS  one, then a better option will be to set them to reset or normalize. Resets or Normalize CSS eliminate browser inconsistencies like heights, font sizes, margins, headings, etc. The reset permits your layout to look consistent all told browsers.
+  Most CSS frameworks have an option to reset them. If you are not aiming to use the existing framework reset CSS  one, then a better option will be to set       them to reset or normalize. Resets or Normalize CSS eliminate browser inconsistencies like heights, font sizes, margins, headings, etc. The reset permits       your layout to look consistent all told browsers.
 
 Find different type of Reset CSS from here: http://cssreset.com/
 
