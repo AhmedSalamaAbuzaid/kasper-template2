@@ -24,7 +24,7 @@ And because it's useful.
 ### IN HTML
 
 1. Use proper document structure
-HTML documents will still work without elements such as <html>, <head>, and <body>. However, the pages will not render correctly in every browser so it's       important to be consistent using the proper document structure.
+  HTML documents will still work without elements such as <html>, <head>, and <body>. However, the pages will not render correctly in every browser so it's               important to be consistent using the proper document structure.
 
 2. Declare the correct doctype
 When creating an HTML document, the first thing to declare is the doctype. This will tell the browser the standards you are using to render your markup         correctly. The doctype goes before the <html> tag at the top of the page. If you are unsure about what declaration to use, W3.org provides information on       choosing the right doctype.
