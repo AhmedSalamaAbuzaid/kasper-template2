@@ -4,7 +4,7 @@
 <br>
 -check my website page: https://ahmedsalamaabuzaid.github.io/kasper-template2/
 
-## inspiration
+## inspiration.
 
 I have used the PSD file from graphberry website 
 <br>
